@@ -37,28 +37,37 @@ https://github.com/andrii-spitsyn/oro-wallet-showcase/blob/main/video/ORO%20Wall
 ### 1. Home Page
 Main dashboard displaying wallet balance, quick actions, and recent transactions.
 
+<p align="center">
 <img width="360" height="725" alt="home_page" src="https://github.com/user-attachments/assets/280452a3-8b34-40a5-b26d-aae6ccc84d87" />
+</p>
 
 ### 2. Account Page
 User profile information and wallet address management.
 
+<p align="center">
 <img width="360" height="725" alt="account_page" src="https://github.com/user-attachments/assets/783f3fe7-dc45-4eb4-ad76-95150b3555f2" />
+</p>
 
 ### 3. Settings Page
 Application configuration, biometric authentication, and security settings.
 
+<p align="center">
 <img width="360" height="725" alt="settings_page" src="https://github.com/user-attachments/assets/8a933482-8132-459a-985f-625903f81677" />
+</p>
 
 ### 4. Send ORO Page
 Peer-to-peer transfer workflow with recipient selection and amount validation.
 
+<p align="center">
 <img width="360" height="725" alt="send_oro_page" src="https://github.com/user-attachments/assets/14aa92bc-de3a-4a3e-8471-72d5102474b5" />
+</p>
 
 ### 5. Buy ORO Page
 Token purchase workflow integrated with Stripe payment processing.
 
+<p align="center">
 <img width="360" height="725" alt="buy_oro_page" src="https://github.com/user-attachments/assets/4305f3b7-5d08-40a5-9a68-6afc624b02f5" />
-
+</p>
 
 ---
 

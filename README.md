@@ -37,27 +37,27 @@ https://github.com/andrii-spitsyn/oro-wallet-showcase/blob/main/video/ORO%20Wall
 ### 1. Home Page
 Main dashboard displaying wallet balance, quick actions, and recent transactions.
 
-<img width="1080" height="2175" alt="home_page" src="https://github.com/user-attachments/assets/280452a3-8b34-40a5-b26d-aae6ccc84d87" />
+<img width="360" height="725" alt="home_page" src="https://github.com/user-attachments/assets/280452a3-8b34-40a5-b26d-aae6ccc84d87" />
 
 ### 2. Account Page
 User profile information and wallet address management.
 
-<img width="1080" height="2175" alt="account_page" src="https://github.com/user-attachments/assets/783f3fe7-dc45-4eb4-ad76-95150b3555f2" />
+<img width="360" height="725" alt="account_page" src="https://github.com/user-attachments/assets/783f3fe7-dc45-4eb4-ad76-95150b3555f2" />
 
 ### 3. Settings Page
 Application configuration, biometric authentication, and security settings.
 
-<img width="1080" height="2175" alt="settings_page" src="https://github.com/user-attachments/assets/8a933482-8132-459a-985f-625903f81677" />
+<img width="360" height="725" alt="settings_page" src="https://github.com/user-attachments/assets/8a933482-8132-459a-985f-625903f81677" />
 
 ### 4. Send ORO Page
 Peer-to-peer transfer workflow with recipient selection and amount validation.
 
-<img width="1080" height="2175" alt="send_oro_page" src="https://github.com/user-attachments/assets/14aa92bc-de3a-4a3e-8471-72d5102474b5" />
+<img width="360" height="725" alt="send_oro_page" src="https://github.com/user-attachments/assets/14aa92bc-de3a-4a3e-8471-72d5102474b5" />
 
 ### 5. Buy ORO Page
 Token purchase workflow integrated with Stripe payment processing.
 
-<img width="1080" height="2175" alt="buy_oro_page" src="https://github.com/user-attachments/assets/4305f3b7-5d08-40a5-9a68-6afc624b02f5" />
+<img width="360" height="725" alt="buy_oro_page" src="https://github.com/user-attachments/assets/4305f3b7-5d08-40a5-9a68-6afc624b02f5" />
 
 
 ---
